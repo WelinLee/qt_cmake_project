@@ -1,2 +1,4 @@
 # qt_cmake_project
-create a qt project using cmake to make program more powerful
+To create a qt project using cmake to make program more powerful, which is shown below.
+
+![qt_cmake_project](docs/images/screenshot.PNG)
